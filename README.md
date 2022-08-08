@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on things with 
+- 🔭 I’m currently building things with micro fe. 
 - 💬 Ask me about Front-end 
 - 📫 How to reach me: dushik@live.com
