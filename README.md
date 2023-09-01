@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I`m currently building things with micro FE. 
-- 💬 Ask me about Front-end 
+- 🔭 I`m currently building things with micro FE.
+- 💬 Ask me about Front-end.
+- ⚡ Actively experimenting with AWS servless tech.
 - 📫 How to reach me: dushik@live.com
