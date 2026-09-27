@@ -1,20 +1,8 @@
 ### Hi there 👋
 
-<!--
-**dush-ik/dush-ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack developer working with the MERN stack.
 
-Here are some ideas to get you started:
-
-
-- 🌱 I`m currently learning ...
-- 👯 I`m looking to collaborate on ...
-- 🤔 I`m looking for help with ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🔭 I`m currently building stuff with micro FE.
-- 💬 Ask me about Front-end.
-- ⚡ Actively experimenting with AWS servless tech.
-- 📫 How to reach me: dushik@live.com
+- Building with React, micro-frontends, and AWS serverless.
+- Building with NestJS, GraphQL, and MongoDB.
+- Exploring machine learning and computer vision.
+- 📫 Reach me at [dushik@live.com](mailto:dushik@live.com)
